@@ -6,7 +6,9 @@
 const names = require('./04-names'); //for names of variables
 const sayHi = require('./05-utils');    //for sayHi utility
 const data = require('./06-alternate-export')
-console.log(data)
+//console.log(data)
+
+require('./07-mind-grenade');
 
 sayHi(data.singlePerson.name);
 sayHi(names.john);
