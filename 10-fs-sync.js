@@ -22,6 +22,7 @@ writeFileSync(
 const result = readFileSync('./content/result-sync.txt', 'utf8');
 console.log(result);
 
+//just outputting status to console
 console.log('done with this task');
 console.log('starting the next one');
 
