@@ -1,0 +1,4 @@
+Here is the result : , Here is the result : This is the first files contents
+, and this is the second files
+Here is the result : This is the first files contents
+, and this is the second files
