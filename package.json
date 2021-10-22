@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ryan-Jeziorski/youtube_freecodecamp_node/issues"
   },
-  "homepage": "https://github.com/Ryan-Jeziorski/youtube_freecodecamp_node#readme"
+  "homepage": "https://github.com/Ryan-Jeziorski/youtube_freecodecamp_node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
