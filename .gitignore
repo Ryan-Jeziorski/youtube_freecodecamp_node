@@ -2,4 +2,4 @@
 ./content/result-sync.txt
 ./content/result-async.txt
 /node_modules
-./content/big.txt
+/content/big.txt
