@@ -1,5 +1,6 @@
 # Don't need to update result file everytime it's changed
 ./content/result-sync.txt
 ./content/result-async.txt
-/node_modules
 ./content/big.txt
+/node_modules
+01-node-tutorial/content/big.txt
