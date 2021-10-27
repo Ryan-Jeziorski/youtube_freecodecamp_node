@@ -3,10 +3,11 @@ const app = express();
 
 //import logger module we made
 const logger = require('./logger')
+const authorize = require('./authorize')
 // req => middleware => res
 
 //app.use tells expresss to use this middleware with every app.get
-app.use('/api',logger);
+app.use(logger, authorize);
 
 
 app.get('/', (req, res) => {
